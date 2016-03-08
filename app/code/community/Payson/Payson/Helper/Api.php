@@ -14,8 +14,8 @@ class Payson_Payson_Helper_Api {
     const MODULE_NAME = 'Magento_Embedded';
     const MODULE_VERSION = '1.0.0';
     const DEBUG_MODE_MAIL = '';
-    const DEBUG_MODE_AGENT_ID = '1322';
-    const DEBUG_MODE_MD5 = '19b56a20-a692-4ca1-962e-384b8c1ad22d';
+    const DEBUG_MODE_AGENT_ID = '4';
+    const DEBUG_MODE_MD5 = '2acab30d-fe50-426f-90d7-8c60a7eb31d4';
     const DEBUG_URL = 'https://test-api.payson.se/2.0/Checkouts/';
     const PAYMENT_URL = 'https://api.payson.se/2.0/Checkouts/';
     const STATUS_READY_TO_PAY = 'readyToPay';
